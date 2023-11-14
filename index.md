@@ -26,7 +26,7 @@ Let's explore the fascinating world of numbers and data together!
 
 # Master thesis
 
-I obtained my master's degree under the supervision of Professor Arun Ram ([here](http://math.soimeme.org/~arunram/)). My master's thesis can be found ([here](Master_thesis.pdf)). During my Master's project, I mainly focused on studying the ring of symmetric functions and its properties. Furthermore, I devoted most of my time to working on the theory of Macdonald polynomials. In particular, I explored combinatorial formulas used to compute Macdonald polynomials, such as the Haiman–Haglund–Loehr formula and the Ram–Yip formula. I am especially interested in developing new formulas for the type $$ GL_N $$ Macdonald polynomials. Recently, my work has shifted more towards integrable lattice models, which also provide interesting formulas for the type $$ GL_N $$ Macdonald polynomials.
+I obtained my master's degree under the supervision of Professor Arun Ram ([here](http://math.soimeme.org/~arunram/)). My master's thesis can be found ([here](/notes/Master_thesis.pdf)). During my Master's project, I mainly focused on studying the ring of symmetric functions and its properties. Furthermore, I devoted most of my time to working on the theory of Macdonald polynomials. In particular, I explored combinatorial formulas used to compute Macdonald polynomials, such as the Haiman–Haglund–Loehr formula and the Ram–Yip formula. I am especially interested in developing new formulas for the type $$ GL_N $$ Macdonald polynomials. Recently, my work has shifted more towards integrable lattice models, which also provide interesting formulas for the type $$ GL_N $$ Macdonald polynomials.
 
 # Other writings
 
