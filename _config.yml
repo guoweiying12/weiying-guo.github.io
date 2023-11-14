@@ -21,8 +21,8 @@
 title: Weiying Guo(郭魏楹)
 email: guwg@student.unimelb.edu.au
 description: "" 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /
+url: "https://weiying-guo.github.io"
 
 # twitter_username 
 twitter_username: Weiying Guo
