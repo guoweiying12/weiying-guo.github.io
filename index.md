@@ -8,7 +8,7 @@ Welcome! I'm Weiying Guo, a passionate and dedicated professional in the field o
 Recently I have ongoing projects with my supervisor Assoicate Professor Michael Wheeler and Dr Sasha Garbali. The study is on rational function of the Izergin--Korepin model.
 
 I have many notes starting from Linear algebra and goes to representation theory
-- Linear algebra ([notes](/notes/Communtative_algebra.pdf.pdf)).
+- Linear algebra ([notes](/notes/Communtative_algebra.pdf)).
 - Enumerative Combinatroics ([notes](/notes/Enmurative_Combinatroics.pdf)).
 - Quantum group and representation theory ([notes](/notes/Quantum_group_and_Crystal_bases.pdf)).
 
